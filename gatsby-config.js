@@ -5,11 +5,10 @@ require(`dotenv`).config({
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
-    pathPrefix: "/zildos",
     siteMetadata: {
         siteTitle: `Zildo Reviews`,
         siteTitleAlt: `Zip's Dildo Reviews`,
-        siteUrl: `https://zildonts.noelle.moe/zildos/`,
+        siteUrl: `https://zildonts.noelle.moe/`,
         siteDescription: `See what Zip has to say about their delicious dildos, excellent eggs, and sensual sex toys.`,
         author: `@flowerdicks_`
     },
