@@ -5,10 +5,11 @@ require(`dotenv`).config({
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
+    pathPrefix: "/zildos",
     siteMetadata: {
         siteTitle: `Zildo Reviews`,
         siteTitleAlt: `Zip's Dildo Reviews`,
-        siteUrl: `https://zildos.noelle.moe`,
+        siteUrl: `https://zildonts.noelle.moe/zildos/`,
         siteDescription: `See what Zip has to say about their delicious dildos, excellent eggs, and sensual sex toys.`,
         author: `@flowerdicks_`
     },
@@ -16,9 +17,11 @@ module.exports = {
             resolve: `@lekoarts/gatsby-theme-minimal-blog`,
             // See the theme's README for all available options
             options: {
+                basePath: "/",
+                blogPath: "/reviews",
                 navigation: [{
                         title: `Reviews`,
-                        slug: `/blog`,
+                        slug: `/reviews`,
                     },
                     {
                         title: `About`,
