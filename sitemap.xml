@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://zildonts.noelle.moe/zildos/zildos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://zildonts.noelle.moe/zildos/zildos/reviews</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://zildonts.noelle.moe/zildos/zildos/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://zildonts.noelle.moe/zildos/zildos/blue-green-wind-eggs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://zildonts.noelle.moe/zildos/zildos/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://zildonts.noelle.moe/zildos/zildos/tags/50-75</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://zildonts.noelle.moe/zildos/zildos/tags/akrowsnest</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://zildonts.noelle.moe/zildos/zildos/tags/custom</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://zildonts.noelle.moe/zildos/zildos/tags/not-uv-reactive</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://zildonts.noelle.moe/zildos/zildos/tags/not-glow-in-the-dark</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://zildonts.noelle.moe/zildos/zildos/tags/rating-9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://zildonts.noelle.moe/zildos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://zildonts.noelle.moe/zildos/reviews</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://zildonts.noelle.moe/zildos/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://zildonts.noelle.moe/zildos/blue-green-wind-eggs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://zildonts.noelle.moe/zildos/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://zildonts.noelle.moe/zildos/tags/50-75</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://zildonts.noelle.moe/zildos/tags/akrowsnest</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://zildonts.noelle.moe/zildos/tags/custom</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://zildonts.noelle.moe/zildos/tags/not-uv-reactive</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://zildonts.noelle.moe/zildos/tags/not-glow-in-the-dark</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://zildonts.noelle.moe/zildos/tags/rating-9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
